@@ -2,7 +2,9 @@
 
 ## Play the game
 run:
-	$ irb
+```
+$ irb
+```
 
 Load the file:
 
