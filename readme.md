@@ -1,7 +1,8 @@
 # Bowling game
 
 ## Play the game
-	run:
+run:
+	$ irb
 
 Load the file:
 
